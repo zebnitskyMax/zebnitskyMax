@@ -35,19 +35,18 @@
 <hr>
 
 ### My stats
-<div id = 'stats' align = 'center'>   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zebnitskyMax&theme=nord_dark"/>  
+
+<div id = 'stats' align = 'left'>   
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zebnitskyMax&theme=nord_dark"/>  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zebnitskyMax&theme=nord_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zebnitskyMax&theme=nord_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zebnitskyMax&theme=nord_dark"/> -->
+ <img height = '200' src="https://github-readme-stats.vercel.app/api?username=zebnitskyMax&count_private=true&show_icons=true&theme=tokyonight" />
+ <img height = '200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebnitskyMax&hide=php&theme=tokyonight" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/cards/profile-details?username=zebnitskyMax&theme=tokyonight"/> -->
 </div>  
-
-
-
 <!--
 **zebnitskyMax/zebnitskyMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
