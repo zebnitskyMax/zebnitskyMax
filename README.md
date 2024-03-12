@@ -7,7 +7,9 @@
 <div id = 'socials' align = 'center'>
 <a href = 'https://www.linkedin.com/in/maksim-zebnitsky-902b7810a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'>
     <img src = 'https://img.shields.io/badge/LinkedIn-darkblue
-    ?style=for-the-badge&logo=linkedin&logoColor=white' alt = 'LinkedIn'>
+    ?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'>
+    <!-- <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-darkblue"> -->
+
 </a>
 <a href = mailto:'zebnitsky.max87@gmail.com'>
     <img src = 'https://img.shields.io/badge/gamil-darkblue
